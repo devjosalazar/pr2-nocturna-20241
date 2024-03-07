@@ -1,6 +1,7 @@
 package co.edu.uniquindio.programacion2.creacional.builder.ejercicio1_cliente;
 
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio1_cliente.model.Cliente;
+
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio1_cliente.model.Cliente;
 
 public class MainCliente {
 

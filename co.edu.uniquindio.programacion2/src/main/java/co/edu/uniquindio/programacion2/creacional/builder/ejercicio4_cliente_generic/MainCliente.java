@@ -1,11 +1,11 @@
 package co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic;
 
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.builder.ClienteBuilder;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.builder.ClientePremiumBuilder;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.builder.ClienteVIPBuilder;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.model.Cliente;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.model.ClientePremium;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.model.ClienteVIP;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.builder.ClienteBuilder;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.builder.ClientePremiumBuilder;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.builder.ClienteVIPBuilder;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.model.Cliente;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.model.ClientePremium;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.model.ClienteVIP;
 
 public class MainCliente {
 

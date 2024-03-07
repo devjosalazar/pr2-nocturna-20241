@@ -1,10 +1,10 @@
 package co.edu.uniquindio.programacion2.creacional.builder.ejercicio3_car;
 
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio3_car.model.Car;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio3_car.model.Manual;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio3_car.model.builder.CarBuilder;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio3_car.model.builder.CarManualBuilder;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio3_car.model.builder.Director;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio3_car.model.Car;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio3_car.model.Manual;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio3_car.model.builder.CarBuilder;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio3_car.model.builder.CarManualBuilder;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio3_car.model.builder.Director;
 
 public class MainCar {
 

@@ -1,6 +1,6 @@
 package co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.builder;
 
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio4_cliente_generic.model.Cliente;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio4_cliente_generic.model.Cliente;
 
 public class ClienteBuilder<T extends ClienteBuilder<T>> {
     protected String nombre;

@@ -1,7 +1,8 @@
 package co.edu.uniquindio.programacion2.creacional.builder.ejercicio2_reserva;
 
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio2_reserva.model.ReservaDeViaje;
-import co.edu.uniquindio.programacion2.patron.creacional.builder.ejercicio2_reserva.model.TipoTransporte;
+
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio2_reserva.model.ReservaDeViaje;
+import co.edu.uniquindio.programacion2.creacional.builder.ejercicio2_reserva.model.TipoTransporte;
 
 import java.time.LocalDateTime;
 import java.util.List;
